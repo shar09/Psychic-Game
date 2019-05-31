@@ -1,0 +1,13 @@
+body {
+    background-image: url(psychic.jpeg);
+}
+
+h1 {
+    font-size: 32px;
+    color: lightskyblue;
+}
+
+p {
+    font-size: 24px;
+    color: white;
+}
